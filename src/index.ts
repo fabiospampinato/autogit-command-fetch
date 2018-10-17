@@ -13,7 +13,7 @@ type options = {
 function fetch ( customOptions?: Partial<options> ) {
 
   return {
-    description: 'A command for fetching from a remote.',
+    description: 'Fetch from the remote',
     plugins: [
       fetchPlugin ( customOptions )
     ]
