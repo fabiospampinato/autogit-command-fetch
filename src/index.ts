@@ -6,7 +6,8 @@ import * as fetchPlugin from 'autogit-plugin-fetch';
 /* FETCH */
 
 type options = {
-  remote: string
+  remote: string,
+  branch: string
 };
 
 function fetch ( customOptions?: Partial<options> ) {
