@@ -23,4 +23,4 @@ function fetch ( customOptions?: Partial<options> ) {
 
 /* EXPORT */
 
-export = Object.assign ( fetch, { default: fetch } );
+export default fetch;
