@@ -1,7 +1,7 @@
 {
   "name": "autogit-command-fetch",
   "description": "A command for fetching from a remote.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
