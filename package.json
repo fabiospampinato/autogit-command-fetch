@@ -28,10 +28,10 @@
     "fetch"
   ],
   "dependencies": {
+    "@types/node": "^10.12.8",
     "autogit-plugin-fetch": "^1.0.1"
   },
   "devDependencies": {
-    "@types/node": "^10.9.4",
     "rimraf": "^2.6.0",
     "typescript": "^3.0.3",
     "typescript-transform-export-interop": "^1.0.1"
